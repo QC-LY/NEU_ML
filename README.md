@@ -6,6 +6,12 @@ Plant Seedlings Classification in Kaggle
 
 https://www.kaggle.com/c/plant-seedlings-classification/overview
 
+## Feature extraction
+
+The green channel of the image is extracted and converted into a binary image, and the HOG algorithm is used for feature extraction
+
+![image](https://github.com/QC-LY/NEU_ML/blob/main/images/feature_2.png)
+
 ## Train
 
 command
